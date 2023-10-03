@@ -69,7 +69,7 @@ function viewbooks($library){
     if(empty($library)){
         echo "No books to show\n";
     }else{
-    //Use of for loop
+    //Use of foreach loop
     foreach ($library as $book){
         echo "Title: ".$book->title."\n";
         echo "ISBN: " . $book->isbn . "\n";
