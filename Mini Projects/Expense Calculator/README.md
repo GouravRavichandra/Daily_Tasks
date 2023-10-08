@@ -1,0 +1,6 @@
+- Simple Expense Tracker.
+- A CSV file is used as a simple db.
+- File I/O operations are used to perform the operation.
+- Simple client side validiation is used to check the inputs.
+- Input is written into the CSV file.
+- CSV file is viewed to show the expenses.

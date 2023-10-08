@@ -72,7 +72,7 @@
                                     echo "🚀 Sci-fi";
                                     break;
                                 case 3:
-                                    echo "🕵️‍♀️ Detectice";
+                                    echo "🕵️‍♀️ Detective";
                                     break;
                                 case 2:
                                     echo "🔍 Thriller";

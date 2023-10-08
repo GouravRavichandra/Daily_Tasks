@@ -1,0 +1,4 @@
+- A simple library Management System.
+- A book class is created and is used through out the program.
+- The entered details are stored in a json file.
+- Each book is identifed through unique ISBN.

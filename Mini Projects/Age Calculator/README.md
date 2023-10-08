@@ -1,0 +1,3 @@
+- Finds the age of a person based on the input DOB.
+- The user input is checked using RegEx, Later using the DateTime of PHP, the date is validated.
+- diff() function of DateTIme is used to find the Age.

@@ -1,0 +1,2 @@
+- Simple Calculator application.
+- Uses Switch statements to check the value of the radio button selected to perform the requried operation.

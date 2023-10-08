@@ -119,7 +119,7 @@
                 <select class="form-select" aria-label="Default select example" name="genre">
                     <option selected disabled>Select the Genre</option>
                     <option value="1">Crime</option>
-                    <option value="2">Detectice</option>
+                    <option value="2">Detective</option>
                     <option value="3">Thriller</option>
                     <option value="4">Sci-fi</option>
                 </select>
