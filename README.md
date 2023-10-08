@@ -14,7 +14,7 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-02 | Monday | -  | - |
 | 2023-10-03 | Tuesday | I/O operations | - |
 | 2023-10-04 | Wednesday | Revision | - |
-| 2023-10-05 | Thursday | - ( Was at Fulcrum for a session ) | - |
+| 2023-10-05 | Thursday | Fulcrum | - |
 | 2023-10-06 | Friday | Basics of JavaScript | - |
 | 2023-10-07 | Saturday | Holiday | - |
 | 2023-10-08 | Sunday   | Holiday | - |
