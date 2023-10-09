@@ -18,3 +18,4 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-06 | Friday | Basics of JavaScript | - |
 | 2023-10-07 | Saturday | Holiday | - |
 | 2023-10-08 | Sunday   | Holiday | - |
+| 2023-10-09 | Monday | Javascript | - |
