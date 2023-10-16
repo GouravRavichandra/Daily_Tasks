@@ -56,7 +56,6 @@ Helps to pass an array which would normally show Nan
 
 `
 let arr = [1,2,3,-1];
- 
 console.log(Math.min(arr));
 `
-But addinf ... will not show error
+But adding ... will not show error
