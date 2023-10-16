@@ -20,3 +20,8 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-08 | Sunday   | Holiday | - |
 | 2023-10-09 | Monday | Javascript | - |
 | 2023-10-10 | Tuesday | HiBob API | - |
+| 2023-10-11 | Wednesday | HiBob API | - |
+| 2023-10-12 | Thursday | HiBob API | - |
+| 2023-10-13 | Friday | HiBob API | - |
+| 2023-10-14 | Saturday | - | - |
+| 2023-10-15 | Sunday | - | - |
