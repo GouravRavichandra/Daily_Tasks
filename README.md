@@ -25,4 +25,4 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-13 | Friday | HiBob API | - |
 | 2023-10-14 | Saturday | - | - |
 | 2023-10-15 | Sunday | - | - |
-| 2023-10-16 | Monday | ES6 (JS) | -|
+| 2023-10-16 | Monday | ES6 (JS) | [Rock Paper Scissors](./Mini%20Projects/Rock%20Paper%20Scissor)|
