@@ -26,3 +26,19 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-14 | Saturday | - | - |
 | 2023-10-15 | Sunday | - | - |
 | 2023-10-16 | Monday | ES6 (JS) | [Rock Paper Scissors](./Mini%20Projects/Rock%20Paper%20Scissor)|
+| 2023-10-17 | Tuesday   | Attendance Consolidator | -      |
+| 2023-10-18 | Wednesday | Attendance Consolidator | -      |
+| 2023-10-19 | Thursday  | Attendance Consolidator | -      |
+| 2023-10-20 | Friday    | Attendance Consolidator | -      |
+| 2023-10-21 | Saturday  | - | -      |
+| 2023-10-22 | Sunday    | - | -      |
+| 2023-10-23 | Monday    | Attendance Consolidator | -      |
+| 2023-10-24 | Tuesday   | Attendance Consolidator | -      |
+| 2023-10-25 | Wednesday | Leave | -      |
+| 2023-10-26 | Thursday  | Leave | -      |
+| 2023-10-27 | Friday    | Leave | -      |
+| 2023-10-28 | Saturday  | - | -      |
+| 2023-10-29 | Sunday    | - | -      |
+| 2023-10-30 | Monday    | Attendance Consolidator | -      |
+| 2023-10-31 | Tuesday   | Attendance Consolidator | -      |
+| 2023-11-01 | Wednesday | Attendance Consolidator | -      |
