@@ -42,3 +42,12 @@ This Repository consists of my daily progress with the tasks completed each day.
 | 2023-10-30 | Monday    | Attendance Consolidator | -      |
 | 2023-10-31 | Tuesday   | Attendance Consolidator | -      |
 | 2023-11-01 | Wednesday | Attendance Consolidator | -      |
+| 2023-11-02 | Thursday  | Attendance Consolidator | -      |
+| 2023-11-03 | Friday    | Attendance Consolidator | -      |
+| 2023-11-04 | Saturday  | - | -      |
+| 2023-11-05 | Sunday    | - | -      |
+| 2023-11-06 | Monday    | Installation of Node.js and basics of js | -      |
+| 2023-11-07 | Tuesday   | R&D FreshChat | -      |
+| 2023-11-08 | Wednesday | R&D FreshChat | -      |
+| 2023-11-09 | Thursday  | R&D FreshChat | -      |
+| 2023-11-10 | Friday    | R&D FreshChat | -      |
